@@ -51,9 +51,8 @@ Change 'RESULT_PATH' to your result dir
 
 ### 4.2 Run the launch file:
 ```
-roslaunch lego_loam run.launch
+roslaunch aloam_velodyne aloam_velodyne_HDL_64.launch
 ```
-Notes: The parameter "/use_sim_time" is set to "true" for simulation, "false" to real robot usage.
 
 ### 4.3 Play existing bag files:
 ```
