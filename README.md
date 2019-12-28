@@ -40,7 +40,7 @@ Change 'dataset_folder' and 'output_bag_file' to your own directories
 ### 3.2 Run the launch file:
 ```
 roslaunch kittibag kittibag.launch
-
+```
 ## 4. Run the package
 
 ### 4.1 change the result directory in launch file :
