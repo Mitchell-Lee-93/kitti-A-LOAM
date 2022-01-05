@@ -1,6 +1,6 @@
 # A-LOAM for kitti dataset
 
-This repository contains modified code of A-LOAM to run and evaluate with kitti-data set. When you run the code, you'll get the trajectory results of A-LOAM in KITTI groundtruth format and you can directly evalutate the result with KITTI gt by EVO-eval kit. A-LOAM already has the kitti helper for kitti-data usage but I found that it has different directories so I also modified it. Wish you find it helpful, especially who are not familiar with ROS and LOAM.
+This repository contains modified code of A-LOAM to run and evaluate with kitti-data set. When you run the code, you'll get the trajectory results of A-LOAM in KITTI groundtruth format and you can directly evalutate the result with KITTI gt by EVO-eval kit. A-LOAM already has the kitti helper for kitti-data usage but I found that it has some problem with directories, so I modified it. Wish you find it helpful, especially who are not familiar with ROS and LOAM.
 
 ## 1. Prerequisites
 ### 1.1 **Ubuntu** and **ROS**
